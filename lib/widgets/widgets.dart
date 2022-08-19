@@ -3,3 +3,8 @@ export 'song_card.dart';
 export 'playlist_card.dart';
 export 'seekbar.dart';
 export 'player_buttons.dart';
+export 'playlist_music.dart';
+export 'trending_music.dart';
+export 'discover_music.dart';
+export 'custom_navbar.dart';
+export 'custom_appbar.dart';
